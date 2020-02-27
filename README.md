@@ -1,6 +1,8 @@
 # Terraform-Azure-ScaleSet
 Check Point Lab deployment with ScaleSets and Windows/Linux Jump Servers
 
+Terraform v12.19 and the AzureRM provider v1.44 was used in this demo
+
 The demo requires that autoprovisioning already setup with an existing R80.40 or later management server.  See the Check Point Cloud Extension instructions for details on setup.
 
 This template will accept the license agreement when it is deployed.  See the marketplace_agreement.tf for details.
